@@ -1,0 +1,9 @@
+.hidden {
+  display: none;
+}
+
+#gameWindow {
+  display: grid;
+  grid-template-columns: 3;
+  grid-template-rows: ;
+}
